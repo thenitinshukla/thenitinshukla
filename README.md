@@ -52,13 +52,6 @@
 
 ---
 
-## 📊 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
-
 ### `~/activity`
 
 <div align="center">
