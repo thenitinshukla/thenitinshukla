@@ -56,8 +56,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thenitinshukla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenitinshukla&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+![Repos](https://img.shields.io/badge/Public%20Repos-66-0A66C2?style=flat-square&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-15-gray?style=flat-square&logo=github&logoColor=white)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true&area=true"/>
 
