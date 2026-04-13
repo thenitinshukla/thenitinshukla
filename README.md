@@ -1,64 +1,69 @@
+```
+╔══════════════════════════════════════════════════════════╗
+║              NITIN SHUKLA  //  HPC Engineer              ║
+║         Astrophysics & Plasma Physics · CINECA           ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-# Nitin Shukla
-
-**HPC Application Engineer · Team Lead, Astrophysics & Plasma Physics**  
-[CINECA](https://www.cineca.it/), Italy
-
-[![Website](https://img.shields.io/badge/Website-thenitinshukla.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://thenitinshukla.github.io/)
-[![Email](https://img.shields.io/badge/Email-n.shukla@cineca.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:n.shukla@cineca.it)
+[![Website](https://img.shields.io/badge/▸_website-thenitinshukla.github.io-0A66C2?style=flat-square)](https://thenitinshukla.github.io/)
+[![Email](https://img.shields.io/badge/▸_email-n.shukla@cineca.it-555?style=flat-square)](mailto:n.shukla@cineca.it)
+[![Location](https://img.shields.io/badge/▸_location-Italy-555?style=flat-square)](#)
 
 </div>
 
 ---
 
-> Specialised in GPU acceleration, performance portability, and large-scale scientific simulation on modern HPC architectures.
+```yaml
+role:     HPC Application Engineer · Team Lead
+org:      CINECA — National Supercomputing Centre, Italy
+focus:    GPU acceleration · Parallel computing · Scientific simulation
+hardware: NVIDIA · AMD · Intel GPUs · ARM · RISC-V
+```
 
 ---
 
-## 🧑‍💻 Core Expertise
+### `~/stack`
 
-- GPU acceleration — NVIDIA · AMD · Intel
-- Parallel programming — MPI · CUDA · OpenMP
-- Scientific simulation — plasma physics · astrophysics · cosmology
-- Heterogeneous architectures — ARM · RISC-V
-
----
-
-## 🔬 Selected Projects
-
-| Project | Role | Description |
-|---------|------|-------------|
-| **[ECsim (GPU)](https://github.com/thenitinshukla)** | **Main Developer** | GPU-enabled Energy-Conserving implicit PIC solver for plasma physics |
-| **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | Contributor | 3D implicit Particle-in-Cell code for space plasma |
-| **gPLUTO** | Contributor | GPU port of the PLUTO astrophysical MHD code |
-| **OpenGadget3** | Contributor | Performance optimisation for cosmological N-body/SPH simulations |
-| **[ScaleIQ](https://github.com/thenitinshukla/ScaleIQ)** | Author | Benchmark scaling framework for heterogeneous HPC systems |
-| **[LWE-KEM](https://github.com/thenitinshukla/LWE-KEM)** | Developer | GPU-accelerated post-quantum Key Encapsulation Mechanism |
+```
+Languages       C  ·  C++  ·  Python  ·  Julia  ·  Fortran
+Parallelism     CUDA  ·  MPI  ·  OpenMP
+Tooling         Docker  ·  Git  ·  Linux
+```
 
 ---
 
-## 🛠️ Tech Stack
+### `~/projects`
+
+```
+★  ECsim (GPU)     Main developer — GPU-enabled Energy-Conserving
+                   implicit Particle-in-Cell solver for plasma physics
+
+   iPIC3D          3D implicit PIC code for space plasma simulations
+                   → github.com/thenitinshukla/iPIC3D-CPU-NS
+
+   gPLUTO          GPU port of the PLUTO astrophysical MHD code
+
+   OpenGadget3     Performance work on cosmological N-body/SPH code
+
+   ScaleIQ         Benchmark scaling framework for heterogeneous HPC
+                   → github.com/thenitinshukla/ScaleIQ
+
+   LWE-KEM         GPU-accelerated post-quantum Key Encapsulation
+                   → github.com/thenitinshukla/LWE-KEM
+```
+
+---
+
+### `~/activity`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,julia,fortran,docker,git,linux" />
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![MPI](https://img.shields.io/badge/MPI-FF6600?style=flat-square&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+graph"/>
 </div>
 
 ---
 
-## 📊 Stats
-
 <div align="center">
-
-![Repos](https://img.shields.io/badge/Public%20Repos-66-0A66C2?style=flat-square&logo=github&logoColor=white)
-![Followers](https://img.shields.io/badge/Followers-15-gray?style=flat-square&logo=github&logoColor=white)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true&area=true"/>
-
+  <sub>Always learning · Always building</sub>
 </div>
