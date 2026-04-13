@@ -45,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,julia,fortran,docker,git,linux" />
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![OpenACC](https://img.shields.io/badge/OpenACC-0071C5?style=flat-square&logoColor=white)
+![OpenACC](https://img.shields.io/badge/OpenACC-0091DA?style=flat-square&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-FF6600?style=flat-square&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logoColor=white)
 
