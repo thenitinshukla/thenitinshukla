@@ -30,7 +30,7 @@
 | Project | Role | Description |
 |---------|------|-------------|
 | **[ECsim (GPU)](https://github.com/thenitinshukla)** | **Main Developer** | GPU-enabled Energy-Conserving implicit PIC solver for plasma physics |
-| **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | Developer | 3D implicit Particle-in-Cell code for space plasma |
+| **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | Contributor | 3D implicit Particle-in-Cell code for space plasma |
 | **gPLUTO** | Contributor | GPU port of the PLUTO astrophysical MHD code |
 | **OpenGadget3** | Contributor | Performance optimisation for cosmological N-body/SPH simulations |
 | **[ScaleIQ](https://github.com/thenitinshukla/ScaleIQ)** | Author | Benchmark scaling framework for heterogeneous HPC systems |
