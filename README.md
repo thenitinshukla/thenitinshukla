@@ -1,65 +1,64 @@
-<h1 align="center">Nitin Shukla</h1>
+<div align="center">
 
-<p align="center">
-  HPC Application Engineer · Team Lead (Astrophysics & Plasma Physics)<br/>
-  <a href="https://www.cineca.it/">CINECA</a>, Italy
-</p>
+# Nitin Shukla
 
-<p align="center">
-  <a href="https://thenitinshukla.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="mailto:n.shukla@cineca.it">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**HPC Application Engineer · Team Lead, Astrophysics & Plasma Physics**  
+[CINECA](https://www.cineca.it/), Italy
+
+[![Website](https://img.shields.io/badge/Website-thenitinshukla.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://thenitinshukla.github.io/)
+[![Email](https://img.shields.io/badge/Email-n.shukla@cineca.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:n.shukla@cineca.it)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Performance portability · GPU acceleration · Large-scale scientific computing</i>
-</p>
+> Specialised in GPU acceleration, performance portability, and large-scale scientific simulation on modern HPC architectures.
 
 ---
 
-## Core Expertise
+## 🧑‍💻 Core Expertise
 
-- HPC performance engineering and optimisation  
-- GPU acceleration (NVIDIA, AMD, Intel)  
-- Parallel programming (MPI, CUDA)  
-- Scientific computing (plasma physics, astrophysics)  
-- Scalable and heterogeneous architectures (ARM, RISC-V)  
-
----
-
-## Selected Projects
-
-| Project | Description |
-|--------|------------|
-| **ECsim (GPU)** | GPU-enabled implicit Particle-in-Cell solver |
-| **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | 3D implicit PIC code |
-| **gPLUTO** | GPU port of PLUTO MHD code |
-| **OpenGadget3** | Performance optimisation for cosmology simulations |
-| **[ScaleIQ](https://github.com/thenitinshukla/ScaleIQ)** | HPC scaling and benchmarking |
-| **[LWE-KEM](https://github.com/thenitinshukla/LWE-KEM)** | GPU-accelerated post-quantum crypto |
+- GPU acceleration — NVIDIA · AMD · Intel
+- Parallel programming — MPI · CUDA · OpenMP
+- Scientific simulation — plasma physics · astrophysics · cosmology
+- Heterogeneous architectures — ARM · RISC-V
 
 ---
 
-## Tech Stack
+## 🔬 Selected Projects
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,julia" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,git" /><br/>
-<img src="https://img.shields.io/badge/MPI-HPC-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CUDA-GPU-green?style=for-the-badge"/>
-
-</p>
+| Project | Role | Description |
+|---------|------|-------------|
+| **[ECsim (GPU)](https://github.com/thenitinshukla)** | **Main Developer** | GPU-enabled Energy-Conserving implicit PIC solver for plasma physics |
+| **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | Developer | 3D implicit Particle-in-Cell code for space plasma |
+| **gPLUTO** | Contributor | GPU port of the PLUTO astrophysical MHD code |
+| **OpenGadget3** | Contributor | Performance optimisation for cosmological N-body/SPH simulations |
+| **[ScaleIQ](https://github.com/thenitinshukla/ScaleIQ)** | Author | Benchmark scaling framework for heterogeneous HPC systems |
+| **[LWE-KEM](https://github.com/thenitinshukla/LWE-KEM)** | Developer | GPU-accelerated post-quantum Key Encapsulation Mechanism |
 
 ---
 
-## Activity Graph (Animated)
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,julia,fortran,docker,git,linux" />
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-FF6600?style=flat-square&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thenitinshukla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenitinshukla&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenitinshukla&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
