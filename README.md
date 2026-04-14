@@ -31,8 +31,8 @@
 |---------|------|-------------|
 | **[ECsim (GPU)](https://github.com/thenitinshukla)** | **Main Developer** | GPU-enabled Energy-Conserving implicit PIC solver for plasma physics |
 | **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | Contributor | 3D implicit Particle-in-Cell code for space plasma |
-| **gPLUTO** | Contributor | GPU port of the PLUTO astrophysical MHD code |
-| **OpenGadget3** | Contributor | Performance optimisation for cosmological N-body/SPH simulations |
+| **[gPLUTO](https://gitlab.com/PLUTO-code/gPLUTO)** | Contributor | GPU port of the PLUTO astrophysical MHD code |
+| **[OpenGadget3(GPU)](http://gitlab.lrz.de/MAGNETICUM/Hydro-OpenGadget3)** | Contributor | Performance optimisation for cosmological N-body/SPH simulations |
 | **[ScaleIQ](https://github.com/thenitinshukla/ScaleIQ)** | **Author** | Benchmark scaling framework for heterogeneous HPC systems |
 | **[LWE-KEM](https://github.com/thenitinshukla/LWE-KEM)** | Developer | GPU-accelerated post-quantum Key Encapsulation Mechanism |
 
