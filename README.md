@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,docker,git,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,docker,python" />
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![OpenACC](https://img.shields.io/badge/OpenACC-0093D0?style=flat-square&logoColor=white)
