@@ -19,8 +19,8 @@
 ## 🧑‍💻 Core Expertise
 
 - GPU acceleration — NVIDIA · AMD · Intel
-- Parallel programming — MPI · CUDA · OpenACC · OpenMP
-- Scientific simulation — plasma physics · astrophysics · cosmology
+- Parallel programming — MPI · CUDA · OpenACC · HIP · OpenMP
+- Scientific simulation — Computational plasma physics · Astrophysics · Cosmology
 - Heterogeneous architectures — GPU · ARM · RISC-V
 
 ---
