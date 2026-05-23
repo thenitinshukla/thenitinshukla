@@ -21,7 +21,7 @@
 - GPU acceleration — NVIDIA · AMD · Intel
 - Parallel programming — MPI · CUDA · OpenACC · HIP · OpenMP
 - Scientific simulation — Computational plasma physics · Astrophysics · Cosmology
-- Heterogeneous architectures — GPU · ARM · RISC-V
+- Heterogeneous architectures — X86 · ARM · RISC-V · GPU
 
 ---
 
