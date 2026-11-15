@@ -29,7 +29,7 @@
 
 | Project | Role | Description |
 |---------|------|-------------|
-| **[ECsim (GPU)](https://github.com/thenitinshukla)** | **Developer** | GPU-enabled Energy-Conserving implicit PIC solver for plasma physics |
+| **[ECsim (GPU)](https://implicitpiccommunity.github.io/ecsimx.github.io/index.html)** | **Developer** | GPU-enabled Energy-Conserving implicit PIC solver for plasma physics |
 | **[LWE-KEM](https://github.com/thenitinshukla/LWE-KEM)** | **Developer** | GPU-accelerated post-quantum Key Encapsulation Mechanism |
 | **[iPIC3D](https://github.com/thenitinshukla/iPIC3D-CPU-NS)** | Contributor | 3D implicit Particle-in-Cell code for space plasma |
 | **[gPLUTO](https://gitlab.com/PLUTO-code/gPLUTO)** | Contributor | GPU port of the PLUTO astrophysical MHD code |
